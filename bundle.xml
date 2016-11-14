@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>guzzlehttp_guzzle</name>
+        <label>Guzzle</label>
+        <type>extension</type>
+        <version>6.2.2</version>
+        <namespace>\GuzzleHttp</namespace>
+        <depends_on>
+            <bundle>
+                <name>adapt</name>
+                <version>2</version>
+            </bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>

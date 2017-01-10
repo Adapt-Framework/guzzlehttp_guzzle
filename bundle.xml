@@ -6,6 +6,8 @@
         <type>extension</type>
         <version>6.2.2</version>
         <namespace>\GuzzleHttp</namespace>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <depends_on>
             <bundle>
                 <name>adapt</name>

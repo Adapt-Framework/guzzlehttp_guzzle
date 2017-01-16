@@ -8,6 +8,12 @@
         <namespace>\GuzzleHttp</namespace>
         <version_status>release</version_status>
         <availability>public</availability>
+        <load_paths>
+            <path>src/</path>
+            <path>Handler/</path>
+            <path>Exception/</path>
+            <path>Cookie/</path>
+        </load_paths>
         <depends_on>
             <bundle>
                 <name>adapt</name>
